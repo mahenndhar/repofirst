@@ -19,6 +19,6 @@ Checking for merge issues
 =
 "new merge changes linux user"
 
-no key
+no key with out pairing
 
 

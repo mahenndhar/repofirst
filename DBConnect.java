@@ -1,2 +1,3 @@
 Hello
-this is to push from Linux command
+this is to push from Linux comman
+"new merge changes linux user"
